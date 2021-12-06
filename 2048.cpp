@@ -33,3 +33,5 @@ int main (){
 	
 	return 0;
 }
+
+gajadi pake game ini gess gua capek kaga ngarti algoritmanya
